@@ -50,4 +50,6 @@ The **Nexus Onion Mirror Market** is setting new standards in the darknet market
 <a href="http://nexuszpgb6wzczes3jvsqeoyiuvjttjscf7nbtvkiaeqzboj3fucjcad.onion"><img src="/screenshots/current.webp" style="max-width: 100%;"></a>
 <a href="http://nexuszpgb6wzczes3jvsqeoyiuvjttjscf7nbtvkiaeqzboj3fucjcad.onion"><img src="/screenshots/sharp.webp" style="max-width: 100%;"></a>
 
-Update:  14 September onion URL corrections
+
+
+Update:  18 September
